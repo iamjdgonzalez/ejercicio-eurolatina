@@ -1,0 +1,266 @@
+[06-Sep-2022 03:07:19 UTC] PHP Warning:  require(E:\EuroLatina\ejercicio-master/vendor/autoload.php): failed to open stream: No such file or directory in E:\EuroLatina\ejercicio-master\artisan on line 18
+[06-Sep-2022 03:07:19 UTC] PHP Fatal error:  require(): Failed opening required 'E:\EuroLatina\ejercicio-master/vendor/autoload.php' (include_path='.;C:\php\pear') in E:\EuroLatina\ejercicio-master\artisan on line 18
+[06-Sep-2022 03:07:19 UTC] PHP Warning:  require(E:\EuroLatina\ejercicio-master/vendor/autoload.php): failed to open stream: No such file or directory in E:\EuroLatina\ejercicio-master\artisan on line 18
+[06-Sep-2022 03:07:19 UTC] PHP Fatal error:  require(): Failed opening required 'E:\EuroLatina\ejercicio-master/vendor/autoload.php' (include_path='.;C:\php\pear') in E:\EuroLatina\ejercicio-master\artisan on line 18
+[06-Sep-2022 03:25:48 UTC] PHP Warning:  require(E:\EuroLatina\ejercicio-master/vendor/autoload.php): failed to open stream: No such file or directory in E:\EuroLatina\ejercicio-master\artisan on line 18
+[06-Sep-2022 03:25:48 UTC] PHP Fatal error:  require(): Failed opening required 'E:\EuroLatina\ejercicio-master/vendor/autoload.php' (include_path='.;C:\php\pear') in E:\EuroLatina\ejercicio-master\artisan on line 18
+[06-Sep-2022 03:29:11 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20180731
+PHP    compiled with module API=20210902
+These options need to match
+ in Unknown on line 0
+[06-Sep-2022 03:29:11 UTC] PHP Warning:  PHP Startup: xmlrpc: Unable to initialize module
+Module compiled with module API=20180731
+PHP    compiled with module API=20210902
+These options need to match
+ in Unknown on line 0
+[06-Sep-2022 03:30:36 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20180731
+PHP    compiled with module API=20210902
+These options need to match
+ in Unknown on line 0
+[06-Sep-2022 03:30:36 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20180731
+PHP    compiled with module API=20210902
+These options need to match
+ in Unknown on line 0
+[06-Sep-2022 03:30:36 UTC] PHP Warning:  PHP Startup: xmlrpc: Unable to initialize module
+Module compiled with module API=20180731
+PHP    compiled with module API=20210902
+These options need to match
+ in Unknown on line 0
+[06-Sep-2022 03:30:36 UTC] PHP Warning:  PHP Startup: xmlrpc: Unable to initialize module
+Module compiled with module API=20180731
+PHP    compiled with module API=20210902
+These options need to match
+ in Unknown on line 0
+[06-Sep-2022 03:30:36 UTC] PHP Warning:  require(E:\EuroLatina\ejercicio-master/vendor/autoload.php): Failed to open stream: No such file or directory in E:\EuroLatina\ejercicio-master\artisan on line 18
+[06-Sep-2022 03:30:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'E:\EuroLatina\ejercicio-master/vendor/autoload.php' (include_path='.;C:\php\pear') in E:\EuroLatina\ejercicio-master\artisan:18
+Stack trace:
+#0 {main}
+  thrown in E:\EuroLatina\ejercicio-master\artisan on line 18
+[06-Sep-2022 03:31:21 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20180731
+PHP    compiled with module API=20210902
+These options need to match
+ in Unknown on line 0
+[06-Sep-2022 03:31:21 UTC] PHP Warning:  PHP Startup: xmlrpc: Unable to initialize module
+Module compiled with module API=20180731
+PHP    compiled with module API=20210902
+These options need to match
+ in Unknown on line 0
+[06-Sep-2022 03:31:21 UTC] PHP Warning:  require(E:\EuroLatina\ejercicio-master/vendor/autoload.php): Failed to open stream: No such file or directory in E:\EuroLatina\ejercicio-master\artisan on line 18
+[06-Sep-2022 03:31:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'E:\EuroLatina\ejercicio-master/vendor/autoload.php' (include_path='.;C:\php\pear') in E:\EuroLatina\ejercicio-master\artisan:18
+Stack trace:
+#0 {main}
+  thrown in E:\EuroLatina\ejercicio-master\artisan on line 18
+[06-Sep-2022 03:45:26 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20180731
+PHP    compiled with module API=20210902
+These options need to match
+ in Unknown on line 0
+[06-Sep-2022 03:45:26 UTC] PHP Warning:  PHP Startup: xmlrpc: Unable to initialize module
+Module compiled with module API=20180731
+PHP    compiled with module API=20210902
+These options need to match
+ in Unknown on line 0
+[06-Sep-2022 03:49:15 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20180731
+PHP    compiled with module API=20210902
+These options need to match
+ in Unknown on line 0
+[06-Sep-2022 03:49:15 UTC] PHP Warning:  PHP Startup: xmlrpc: Unable to initialize module
+Module compiled with module API=20180731
+PHP    compiled with module API=20210902
+These options need to match
+ in Unknown on line 0
+[06-Sep-2022 03:49:15 UTC] PHP Warning:  require(E:\EuroLatina\ejercicio-master/vendor/autoload.php): Failed to open stream: No such file or directory in E:\EuroLatina\ejercicio-master\artisan on line 18
+[06-Sep-2022 03:49:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'E:\EuroLatina\ejercicio-master/vendor/autoload.php' (include_path='.;C:\php\pear') in E:\EuroLatina\ejercicio-master\artisan:18
+Stack trace:
+#0 {main}
+  thrown in E:\EuroLatina\ejercicio-master\artisan on line 18
+[06-Sep-2022 03:53:32 UTC] PHP Warning:  PHP Startup: gd: Unable to initialize module
+Module compiled with module API=20180731
+PHP    compiled with module API=20210902
+These options need to match
+ in Unknown on line 0
+[06-Sep-2022 03:53:32 UTC] PHP Warning:  PHP Startup: xmlrpc: Unable to initialize module
+Module compiled with module API=20180731
+PHP    compiled with module API=20210902
+These options need to match
+ in Unknown on line 0
+[06-Sep-2022 03:53:32 UTC] PHP Warning:  require(E:\EuroLatina\ejercicio-master/vendor/autoload.php): Failed to open stream: No such file or directory in E:\EuroLatina\ejercicio-master\artisan on line 18
+[06-Sep-2022 03:53:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'E:\EuroLatina\ejercicio-master/vendor/autoload.php' (include_path='.;C:\php\pear') in E:\EuroLatina\ejercicio-master\artisan:18
+Stack trace:
+#0 {main}
+  thrown in E:\EuroLatina\ejercicio-master\artisan on line 18
+[06-Sep-2022 03:59:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 03:59:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 03:59:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 03:59:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:00:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:00:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:01:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:01:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:01:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:01:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:02:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:02:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:03:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:03:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:05:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:05:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:05:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:05:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:12:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:12:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:12:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:12:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:13:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:13:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:13:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[06-Sep-2022 04:13:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 16:28:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 16:28:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 16:29:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 16:29:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 16:57:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 16:57:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:19:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:19:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:19:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:19:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:19:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:19:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:21:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:21:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:23:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:23:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:23:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:23:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:23:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:23:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:30:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:30:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:32:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:32:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:33:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:33:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:39:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:39:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:39:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:39:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:39:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:39:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:47:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:47:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:47:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:47:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:48:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:48:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:52:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:52:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:53:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:53:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:53:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:53:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:54:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:54:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:54:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:54:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:55:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:55:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:56:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:56:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:56:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:56:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:56:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:56:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:57:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:57:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:57:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 17:57:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 18:12:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 18:12:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 18:12:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 18:12:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 19:49:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 19:49:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 19:52:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 19:52:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 19:52:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 19:52:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 19:52:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 19:52:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 19:54:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 19:54:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 19:54:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 19:54:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 19:55:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 19:55:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 21:06:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 21:06:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 21:06:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 21:06:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 23:04:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 23:04:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 23:07:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 23:07:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 23:50:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 23:50:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 23:50:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 23:50:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 23:51:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 23:51:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 23:58:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 23:58:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 23:58:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[10-Sep-2022 23:58:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 00:19:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 00:19:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 00:20:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 00:20:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 00:32:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 00:32:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 00:32:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 00:32:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 00:51:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 00:51:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 00:51:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 00:51:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 01:39:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 01:39:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 01:39:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 01:39:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:15:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:15:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:15:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:15:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:18:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:18:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:18:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:18:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:24:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:24:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:24:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:24:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:29:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:29:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:33:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:33:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:33:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:33:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:36:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:36:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:37:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 03:37:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 04:13:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 04:13:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 06:20:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 06:20:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 07:24:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 07:24:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 07:24:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 07:24:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 15:42:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: ext\gd2 (No se puede encontrar el módulo especificado), ext\php_gd2.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
+[11-Sep-2022 15:42:38 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: ext\xmlrpc (No se puede encontrar el módulo especificado), ext\php_xmlrpc.dll (No se puede encontrar el módulo especificado)) in Unknown on line 0
